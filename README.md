@@ -102,14 +102,6 @@ NEXT_PUBLIC_API_URL=your_backend_url
 
 ---
 
-## 📸 Screenshots
-
-Add project screenshots here.
-
-```md
-![Home Page](./public/home.png)
-![Resume Builder](./public/resume-builder.png)
-```
 
 ---
 
